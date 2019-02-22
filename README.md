@@ -1,24 +1,5 @@
-# README
+# FLAPPY BIRD CLONE (Backend) README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an arcade-styled game that replicates then-popular game "Flappy Bird" – the user controls a bird, which can move up or down, to avoid incoming obstacles.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The frontend repo, technologies used, and video demo can be found here: https://github.com/jshin1/Flappy-Bird-Clone
